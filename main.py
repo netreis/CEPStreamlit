@@ -3,7 +3,7 @@ import pandas as pd
 import streamlit as st
 import urllib.parse
 
-st.set_page_config(page_title="Gerenciador de Endereços", layout="wide")
+st.set_page_config(page_title="Endereços - Itaúna-MG", layout="wide")
 st.title("📍 Endereços Itaúna-MG")
 
 def conectarDB():
